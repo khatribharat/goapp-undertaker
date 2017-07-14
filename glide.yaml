@@ -3,5 +3,3 @@ import:
         - package: github.com/casbin/casbin
           version: v0.7.0
           repo: https://github.com/casbin/casbin
-        - package: github.com/abbot/go-http-auth
-          repo: https://github.com/abbot/go-http-auth
